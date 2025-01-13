@@ -1,2 +1,2 @@
 # MySript
-Powershell scripts for CLI management and init application
+Powershell scripts for CLI management and init application For MyShell
